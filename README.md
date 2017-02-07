@@ -1,0 +1,2 @@
+# mao.js
+special js
